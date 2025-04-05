@@ -5,6 +5,7 @@
 
 </div>
 
+<div>
 
   ## 🛠️ Tech Stack
 ### 💻 Language
@@ -37,6 +38,8 @@
 <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=YouTrack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <br/>
+
+  </div>
 
 
   ## 📂 Projects
