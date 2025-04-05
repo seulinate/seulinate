@@ -56,21 +56,13 @@
   ## 👋 About Me
   #### 백엔드를 중심으로, 프론트도 이해하는 개발자
   #### 안녕하세요! 백엔드에 깊이 있는 관심을 가지고 개발하고 있는 예비 백엔드 개발자입니다.
-  #### 프론트엔드도 어느 정도 다룰 수 있는 유연함을 가진 개발자가 되고자 노력하고 있어요.
   #### 프로젝트를 함께하는 사람들과의 ‘소통과 배려’, 그리고 ‘꼼꼼함’을 가장 중요하게 생각합니다.
   <br/>
 
   ## 💬 One Line
   > **"백엔드를 단단하게, 사람들과 부드럽게."**
-
   <br/>
   
-
-  ## 📊 GitHub Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulinate&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulinate&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <!--
 **seulinate/seulinate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
