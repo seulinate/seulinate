@@ -59,6 +59,8 @@
   #### 안녕하세요! 백엔드에 깊이 있는 관심을 가지고 개발하고 있는 예비 백엔드 개발자입니다.
   #### 프로젝트를 함께하는 사람들과의 ‘소통과 배려’, 그리고 ‘꼼꼼한 책임감’을 가장 중요하게 생각합니다.
   #### 백엔드를 중심으로, 프론트도 이해하는 개발자
+  <a href="https://github.com/seul715" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Other%20GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <br/>
 
   ## 💬 One Line
